@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d66b2de2-4e02-4a9c-8295-59f0408c0372" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/configure/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/configure/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/controller/admin/AdmProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/controller/admin/AdmProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/repository/ProductPilihanRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/repository/ProductPilihanRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/service/ProductPilihanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/service/ProductPilihanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hias/apps/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hias/apps/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/configure/SecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/configure/SecurityConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/ForgotPasswordController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/ForgotPasswordController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/SendEmailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/SendEmailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/UserRegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/UserRegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/admin/AdmProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/controller/admin/AdmProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/repository/ProductPilihanRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/repository/ProductPilihanRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ForgotService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ForgotService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ProductPilihanService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ProductPilihanService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hias/apps/service/ProductService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="apiCoreLimu" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1122" />
+  </component>
+  <component name="ProjectId" id="1UQhVcwdaFXcMKOkPg44CpxkxUp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/hias" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.hias.apps.service" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66b2de2-4e02-4a9c-8295-59f0408c0372" name="Default Changelist" comment="" />
+      <created>1562221456566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562221456566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1575302089379">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="533" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1575302089379" />
+    <state x="570" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575294771285">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="570" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.823@0.23.1440.823" timestamp="1575294771285" />
+    <state x="458" y="188" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1575343000235">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="458" y="188" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.823@0.23.1440.823" timestamp="1575343000235" />
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog" timestamp="1575294910705">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog/0.23.1440.823@0.23.1440.823" timestamp="1575294910705" />
+    <state x="229" y="73" key="SettingsEditor" timestamp="1575295381171">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1575295381171" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1575294759128">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1575294759128" />
+    <state x="427" y="57" key="refactoring.ChangeSignatureDialog" timestamp="1575509526991">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="427" y="57" key="refactoring.ChangeSignatureDialog/0.23.1440.823@0.23.1440.823" timestamp="1575509526991" />
+    <state x="450" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1575444714014">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="450" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.823@0.23.1440.823" timestamp="1575444714014" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hias/apps/controller/InspirationController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>apiCoreHias</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
